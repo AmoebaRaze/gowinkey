@@ -1,3 +1,3 @@
-module github.com/daspoet/gowinkey
+module github.com/AmoebaRaze/gowinkey
 
 go 1.16
